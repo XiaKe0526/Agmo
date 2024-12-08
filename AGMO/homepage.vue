@@ -14,7 +14,7 @@
  
     <div class="about"> 
       <div class="box"> 
-        <hr /> 
+        <hr/> 
         <h3>WHAT WE DO</h3> 
       </div> 
       <div class="box"> 
